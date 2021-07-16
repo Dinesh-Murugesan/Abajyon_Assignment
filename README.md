@@ -1,1 +1,10 @@
-# Abajyon_Assignment
+# SAML
+
+Usage
+=====
+
+```
+npm install
+node app.js
+```
+

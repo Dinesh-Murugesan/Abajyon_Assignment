@@ -1,0 +1,23 @@
+{
+  "name": "passport-saml-rit-example",
+  "version": "0.0.0",
+  "description": "An example web app that connects to RIT's SSO Shibboleth Identity Provider.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "connect-redis": "^5.0.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "excel-export": "^0.5.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mssql": "^6.3.1",
+    "passport": "^0.4.1",
+    "passport-saml": "^2.2.0",
+    "properties-reader": "^2.2.0",
+    "redis": "^3.0.2"
+  }
+}
